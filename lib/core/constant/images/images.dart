@@ -1,0 +1,12 @@
+const logoImage = "assets/images/logo_empty.png";
+const intro1Image = "assets/images/intro.jpg";
+const intro2Image = "assets/images/intro2.jpg";
+const homePageImage = "assets/images/home page.png";
+const uploadImage = "assets/images/upload.png";
+const checkUpImage = "assets/images/checkup.png";
+const lifeStyleImage = "assets/images/lifestyle.png";
+const logoSvg = "assets/images/app icon.svg";
+const homeSvg = "assets/images/home bg.svg";
+const lifStyleSvg = "assets/images/lifestyle bg.svg";
+const whoUsSvg = "assets/images/who bg.svg";
+const uploadSvg = "assets/images/upload bg.svg";
